@@ -1,0 +1,1 @@
+ /*&& strcmpi(entry,p->word) != 0) || strcmpi(entry,p->word) == 1*/
